@@ -92,3 +92,10 @@ nav .menu a{
   max-width: 585px;
   vertical-align: middle;
 }
+
+#s2 .s2a h2{
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  margin: auto;
+}
